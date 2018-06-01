@@ -97,7 +97,7 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
- 			print '[+]Terkirim..............!!!'
+ 			print '\033[1;31m[+]Terkirim..............!!!'
 			code=500
 	except urllib2.URLError, e:
 			#print e.reason
