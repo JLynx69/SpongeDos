@@ -71,7 +71,7 @@ def usage():
     print "\t+==================================+"
     print "\t| Coding By : Jack O'neil          |"
     print "\t|----------------------------------|"
-    print "\t| Diciptakan pada : 14 Feb 2017    |"
+    print "\t| Diciptakan pada : 14 Feb 2012    |"
     print "\t|----------------------------------|"
     print "\t| Versi : v2.0                     |"
     print "\t+==================================+"
